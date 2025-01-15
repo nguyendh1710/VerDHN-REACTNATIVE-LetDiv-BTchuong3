@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Trần Anh Dũng",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 2,
+      "name": "Trần Mai Lan",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 3,
+      "name": "Trần Minh Tuấn",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 4,
+      "name": "Trần Ngọc Hân",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 5,
+      "name": "Trần Hoàng Nam",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 6,
+      "name": "Trần Thị Lan",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 7,
+      "name": "Trần Quang Huy",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 8,
+      "name": "Trần Thảo Vy",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 9,
+      "name": "Trần Bảo Minh",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 10,
+      "name": "Trần Văn Tèo",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+    {
+      "id": 11,
+      "name": "Trần Văn Tâm",
+      "role": "Developer",
+      "avatarUri":
+        "https://github.com/nguyendh-xp97/VerDHN-BT_Ch-ng2_QLNV---LetDiv-React-Native/blob/main/src/screens/EmployeeList/EmployeeItem/1000.png?raw=true",
+    },
+  ]
